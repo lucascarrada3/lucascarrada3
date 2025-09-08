@@ -6,11 +6,11 @@
 
 Trabajé como programador **full stack** en la **Casa de Gobierno de Mendoza**, donde desarrollé tareas clave utilizando tecnologías como:
 
-- **C#**
-- **Razor**
-- **.NET**
-- **React**
-- **MySQL**
+- C#
+- Razor
+- .NET
+- React
+- MySQL
 
 Durante mi tiempo allí, participé activamente en el mantenimiento y evolución del sitio **BuhoGestion**, cumpliendo funciones como:
 
