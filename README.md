@@ -4,6 +4,14 @@
 
 ## 🧑‍💻 Experiencia Profesional
 
+Actualmente trabajando como programador **full stack** en la empresa Simple Black - Klinik donde soy desarrollador utilizando tecgnologías como:
+
+- C#
+- ASP.NET
+- Telerik
+- SQL
+- Tortoise
+
 Trabajé como programador **full stack** en la **Casa de Gobierno de Mendoza**, donde desarrollé tareas clave utilizando tecnologías como:
 
 - C#
